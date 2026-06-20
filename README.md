@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**CainesRequiem/CainesRequiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <th>
+      $\color{#303030}{\textsf{ABOUT ME!}}$ <br>
+      <br>
+      $\color{#EB2E4C}{\textsf{〞ㅤCAINEㅤ 〟}}$ <br>
+      $\color{#ff8f8f}{\textsf{THEY/SHE}}$ <br>
+      $\color{#EB2E4C}{\textsf{Nonbinary, Genderfluid, GNC}}$ <br>
+      $\color{#ff8f8f}{\textsf{Taken Since 01/06/2026 <3}}$ <br>
+        <br>
+      $\color{#4b4a4f}{\textsf{⤥ CHECK OUT MY PAGES BELOW!! ⤦}}$ <br>
 
-Here are some ideas to get you started:
+</th>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>
+      $\color{#303030}{\textsf{QUICK DNI LIST!}}$ <br>
+      <br>
+      $\color{#3D82D6}{\textsf{TRANSPHOBIC, RACIST, HOMOPHOBIC, ETC.}}$ <br>
+      $\color{#45c7ff}{\textsf{ROYALTEETH, QUEENBEE,}}$ <br>
+      $\color{#45c7ff}{\textsf{BUBBLETEETH, CHATTERBOX SHIPPERS.}}$ <br>
+      $\color{#3D82D6}{\textsf{SHIPPING AND SYSTEM DISCOURSE.}}$ <br>
+      $\color{#45c7ff}{\textsf{MEAN PEOPLE.}}$ <br>
+        <br>
+      $\color{#4b4a4f}{\textsf{A MORE IN-DEPTH LIST CAN BE}}$ <br>
+      $\color{#4b4a4f}{\textsf{FOUND ON MY STRAWPAGE!}}$ <br>
+
+</th>
+</tr>
+</table>

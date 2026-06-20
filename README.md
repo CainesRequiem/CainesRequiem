@@ -16,6 +16,12 @@
 </tr>
 </table>
 
+<img align="right" width="300" height="325" alt="placeholder image" src="https://file.garden/Zy_Q1dCuUwZRDNyl/placeholder%20image.png"/>
+
+![placeholder](https://file.garden/Zy_Q1dCuUwZRDNyl/placeholder%20divider.png)
+
+<img align="left" width="300" height="325" alt="placeholder image" src="https://file.garden/Zy_Q1dCuUwZRDNyl/placeholder%20image.png"/>
+
 <table>
   <tr>
     <th>

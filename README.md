@@ -10,7 +10,7 @@ i would make out with this tennaville guy 👀
 
 <div align="center">
 
-<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/tenna%20github%201.png" width="700" height="auto">
+<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/super%20cute%20tv.png" width="700" height="auto">
 
 - - -
 
@@ -20,7 +20,7 @@ i would make out with this tennaville guy 👀
 
 <div align="center">
 
-<img align="right" src="https://file.garden/aq73zx_uhFstvxyI/tenna%20github%202.png" width="360" height="auto">
+<img align="right" src="https://file.garden/aq73zx_uhFstvxyI/super%20hot%20tv%20with%20its%20self%20insert.png" width="360" height="auto">
 
 <table>
 <tr>

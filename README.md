@@ -1,24 +1,39 @@
 <!--
 
-all graphics by user ringmasterai :3
+all graphics by user ringmasterai :3 i love you tens!! <33
 some code stolen from multiple peoples' githubs,
-because i don't know how to code :/
+because i don't know how to code \:/
+
+i would make out with this tennaville guy 👀
 
 -->
+
+<div align="center">
 
 <img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/tenna%20github%201.png" width="700" height="auto">
 
 - - -
 
+![](https://komarev.com/ghpvc/?username=tennaville&label=LIVE+VIEWERS&color=a193ed)
+
+</div>
+
 <div align="center">
 
-<img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="360" alt="Deltarune sprite">
+<img align="left" src="https://file.garden/aq73zx_uhFstvxyI/tenna%20github%202.png" width="360" height="auto">
 
 <table>
 <tr>
 <td align="center">
 
-<h3>$\color{#E56B9F}{hai,}$ $\color{#FFD3E5}{this}$ $\color{#FF85B3}{is}$ $\color{#F3A6C8}{my}$ $\color{#D95C96}{DR}$ $\color{#FFBDE0}{acc!}$</h3>
+<h3>$\color{#E56B9F}{text text text}$</h3>
+
+<!--
+
+^^^
+hi love! it wouldn't add spaces for some reason :( so for every word you need a different section... just add a space and then " $\color{#E56B9F}{text}$ " BEFORE the " </h3> " if you want to add another word oke!! this goes for all of them i don't know why it's doing this im figuring it out
+
+-->
 
 <p>
 $\color{#F3A6C8}{don't}$ $\color{#E56B9F}{be}$ $\color{#FFD3E5}{afraid}$ $\color{#FF85B3}{to}$ $\color{#F7B5D0}{call}$ $\color{#D95C96}{me}$ $\color{#FFD3E5}{by}$ $\color{#F3A6C8}{the}$ $\color{#E56B9F}{pony}$<br>
@@ -26,8 +41,6 @@ $\color{#FFBDE0}{i'm}$ $\color{#E56B9F}{using}$ $\color{#F3A6C8}{if}$ $\color{#F
 </p>
 
 <p>$\color{#F7B5D0}{─────}$ $\color{#E56B9F}{୨୧}$ $\color{#FFD3E5}{─────}$</p>
-
-![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
 <details>
 <summary>୨୧ $\color{#E56B9F}{byi}$</summary>
@@ -73,38 +86,10 @@ $\color{#FFD3E5}{Anyone}$ $\color{#FF85B3}{not}$ $\color{#F7B5D0}{listed}$ $\col
 
 </details>
 
-<details>
-<summary>୨୧ $\color{#FF85B3}{other}$</summary>
-
-<br>
-
-<p>
-$\color{#F3A6C8}{discord}$ $\color{#FFD3E5}{:}$ $\color{#E56B9F}{ruffledram}$
-</p>
-
-<p>
-$\color{#F7B5D0}{main}$ $\color{#FFD3E5}{github}$ $\color{#FF85B3}{:}$
-<a href="https://github.com/ruffiest">@ruffiest</a>
-</p>
-
-</details>
-
-<p>
-$\color{#E56B9F}{please}$ $\color{#FFD3E5}{sign}$
-<a href="https://pinkkitty.atabook.org/">新book</a>
-$\color{#F3A6C8}{mew}$ $\color{#D95C96}{!!!}$
 </p>
 
 </td>
 </tr>
 </table>
-
-<p>
-  <sub>
-    $\color{#F3A6C8}{art}$ $\color{#FFD3E5}{by}$
-    <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a>
-    $\color{#FF85B3}{on}$ $\color{#F7B5D0}{tumblr!}$
-  </sub>
-</p>
 
 </div>

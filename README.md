@@ -1,8 +1,10 @@
 <!--
 
-all graphics by user ringmasterai :3
+art by yours truly, ringmasterai/sagerobotnik :3
 some code stolen from multiple peoples' githubs,
 because i don't know how to code \:/
+
+dividers by xaerainy on tumblr!
 
 -->
 
@@ -10,9 +12,9 @@ because i don't know how to code \:/
 
 <img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/sagerobotnik%20github.png" width="700" height="auto">
 
-- - -
+<img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/cybercore%20div%201.gifv" width="700" height="auto">
 
-![](https://komarev.com/ghpvc/?username=tennaville&label=LIVE+VIEWERS&color=a193ed)
+![](https://komarev.com/ghpvc/?username=sagerobotnik&label=EGGPAWNS&color=05fdfe)
 
 </div>
 
@@ -24,7 +26,7 @@ because i don't know how to code \:/
 
 <table>
 <tr>
-<td align="center">
+<td align="right">
 
 <h3>$\color{#a193ed}{\textsf{!! ☆ ABOUT ME ★ ⸝⸝}}$</h3>
 

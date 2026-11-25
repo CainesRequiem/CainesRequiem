@@ -17,6 +17,9 @@ dividers by xaerainy on tumblr!
 ![](https://komarev.com/ghpvc/?username=sagerobotnik&label=EGGPAWNS&color=05fdfe)
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&vCenter=false&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22%5C%22+SAGE%2C+FULLY%5CnINITIALIZED%5CnAND+REPORTING%5CnFOR+DUTY.+%5C%22%22%2C%22font%22%3A%22Comic+Sans%22%2C%22color%22%3A%22%2305fdfe%22%2C%22fontSize%22%3A18%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+[MAIN ACCOUNT](https://github.com/RingmasterAI)
+
 <table>
   <tr>
     <th>
@@ -33,7 +36,7 @@ dividers by xaerainy on tumblr!
 </tr>
 </table>
 
-[MAIN ACCOUNT](https://github.com/RingmasterAI) ㅤ [SPAM FOLLOW](https://github.com/cainecore-lisp)
+[SPAM FOLLOW](https://github.com/cainecore-lisp)
 
 <img align="center" img src="https://file.garden/aq73zx_uhFstvxyI/cybercore%20div%202.gifv" width="700" height="auto">
 

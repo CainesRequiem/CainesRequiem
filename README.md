@@ -18,7 +18,7 @@ because i don't know how to code \:/
 
 <div align="left">
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&vCenter=false&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22%5C%22+SAGE%2C+FULLY%5CnINITIALIZED%5CnAND+REPORTING%5CnFOR+DUTY.+%5C%22%22%2C%22font%22%3A%22Comic+Sans%22%2C%22color%22%3A%22%2305fdfe%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&vCenter=false&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22%5C%22+SAGE%2C+FULLY%5CnINITIALIZED%5CnAND+REPORTING%5CnFOR+DUTY.+%5C%22%22%2C%22font%22%3A%22Comic+Sans%22%2C%22color%22%3A%22%2305fdfe%22%2C%22fontSize%22%3A18%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 

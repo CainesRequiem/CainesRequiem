@@ -31,7 +31,7 @@ because i don't know how to code \:/
 <p>
 $\color{#e3ccfb}{\textsf{Tenna / Strobe}}$
   
-$\color{#fefcff}{\textsf{Trans Masc. ☆ 18+ ★ It/He Prns ☆ <Caine3 ★ More in Straw}}$
+$\color{#fefcff}{\textsf{tex tex text}}$
 </p>
 
 <p>$\color{#fefcff}{─────}$ $\color{#fef960}{⭑ ✮ ⭑}$ $\color{#fefcff}{─────}$</p>
